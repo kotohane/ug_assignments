@@ -1,0 +1,57 @@
+Dependencies for Project 'EXP_HMI', Target 'Target 1': (DO NOT MODIFY !)
+F (.\user\lcd_driver.c)(0x5F008DC9)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\user-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DMKL25Z128xxx4-o .\objects\lcd_driver.o --omf_browse .\objects\lcd_driver.crf --depend .\objects\lcd_driver.d)
+I (user\lcd_driver.h)(0x5F008E20)
+I (user\user.h)(0x5F003916)
+I (D:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.H)(0x585B7C0A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)
+I (user\HMI.h)(0x5F008EAE)
+I (user\lcdlib.h)(0x5EFAAC46)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5E53505A)
+F (.\user\main.c)(0x5F009D22)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\user-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (user\user.h)(0x5F003916)
+I (D:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.H)(0x585B7C0A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)
+I (user\lcd_driver.h)(0x5F008E20)
+I (user\HMI.h)(0x5F008EAE)
+F (.\user\HMI.c)(0x5F009518)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\user-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DMKL25Z128xxx4-o .\objects\hmi.o --omf_browse .\objects\hmi.crf --depend .\objects\hmi.d)
+I (user\user.h)(0x5F003916)
+I (D:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.H)(0x585B7C0A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)
+I (user\lcd_driver.h)(0x5F008E20)
+I (user\HMI.h)(0x5F008EAE)
+F (.\user\ISR.c)(0x5EFAAC46)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\user-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DMKL25Z128xxx4-o .\objects\isr.o --omf_browse .\objects\isr.crf --depend .\objects\isr.d)
+I (user\user.h)(0x5F003916)
+I (D:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.H)(0x585B7C0A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)
+I (user\lcd_driver.h)(0x5F008E20)
+I (user\HMI.h)(0x5F008EAE)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x5EFAAC40)(--cpu Cortex-M0+ -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x5EFAAC40)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\user-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-ID:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53505C)
+I (D:\Users\James\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.h)(0x585B7C0A)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\Users\James\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5EFAAC40)()
